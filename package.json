@@ -10,7 +10,7 @@
   ],
   "author": "Lutfi Fitroh Hadi",
   "license": "OSL-3.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@faker-js/faker": "^8.0.2"
   },
