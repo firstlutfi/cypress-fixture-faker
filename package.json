@@ -1,0 +1,21 @@
+{
+  "name": "@firstlutfi/cypress-fixture-faker",
+  "version": "1.0.0",
+  "description": "A package to generate fixture data using Faker.js for Cypress tests",
+  "main": "index.js",
+  "keywords": [
+    "cypress",
+    "fixture",
+    "faker"
+  ],
+  "author": "Lutfi Fitroh Hadi",
+  "license": "OSL-3.0",
+  "private": true,
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.43.0",
+    "jest": "^29.5.0"
+  }
+}
