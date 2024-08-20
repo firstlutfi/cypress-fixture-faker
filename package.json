@@ -1,6 +1,6 @@
 {
   "name": "@firstlutfi/cypress-fixture-faker",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A package to generate fixture data using Faker.js for Cypress tests",
   "main": "index.js",
   "type": "module",
