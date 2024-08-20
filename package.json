@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A package to generate fixture data using Faker.js for Cypress tests",
   "main": "index.js",
+  "type": "module",
   "keywords": [
     "cypress",
     "fixture",
